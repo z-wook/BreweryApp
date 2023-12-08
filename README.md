@@ -12,9 +12,15 @@
 <br>
 
 ## 📺 UI 미리보기
-<img src="https://github.com/z-wook/BreweryApp/assets/101041221/a1fef519-951e-4a73-aa3d-6562983ab38f" width="300" /></a>
-<img src="https://github.com/z-wook/BreweryApp/assets/101041221/b105f188-35d9-4734-bf7c-e12d6aa106d6" width="300" /></a>
-<br><br>
+<details>
+    <summary>자세히</summary>
+
+https://github.com/z-wook/BreweryApp/assets/101041221/a1fef519-951e-4a73-aa3d-6562983ab38f
+
+https://github.com/z-wook/BreweryApp/assets/101041221/b105f188-35d9-4734-bf7c-e12d6aa106d6
+</details>
+
+<br>
 
 ## 📚 구현 기능
 **주요 기능**
